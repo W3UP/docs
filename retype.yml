@@ -1,0 +1,26 @@
+input: .
+output: .retype
+url: docs.w3up.cc
+favicon: static/favicon.svg
+branding:
+  title: W3UP
+  label: Docs
+  logo: static/favicon.svg
+  logoDark: static/favicon.svg
+meta:
+  title: " | W3UP Docs"
+links:
+- text: W3UP App
+  link: https://app.w3up.cc/
+  icon: sign-out
+  target: blank
+- text: Twitter
+  link: https://twitter.com/W3UPcc
+  icon: sign-out
+  target: blank
+- text: Github
+  link: https://github.com/W3UP
+  icon: sign-out
+  target: blank
+footer:
+  copyright: "&copy; Copyright {{ year }}. W3UPcc. All rights reserved."
